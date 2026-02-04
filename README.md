@@ -32,17 +32,22 @@ Focused on bridging business needs with scalable technical solutions.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=21JG&show_icons=true&theme=tokyonight"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=21JG&theme=tokyonight"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=21JG&layout=compact&theme=tokyonight"/>
 
 </div>
+
+---
+
+## 📈 Metrics
+![Metrics](https://raw.githubusercontent.com/21JG/21JG/main/github-metrics.svg)
 
 ---
 
@@ -69,12 +74,10 @@ English (Advanced)
 
 <a href="TU_LINKEDIN">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-
 </a>
 
 <a href="mailto:TU_EMAIL">
 <img src="https://img.shields.io/badge/Email-darkred?style=for-the-badge&logo=gmail"/>
-
 </a>
 
 </div>
