@@ -1,16 +1,36 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**21JG/21JG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hey, I'm Jarod
+**Business Analyst | Software Engineer**
 
-Here are some ideas to get you started:
+Building scalable solutions with clean architecture, cloud services and modern tooling.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## 🧰 Tech Stack
+- Backend: Java, Spring Boot, Python, Node
+- Cloud: Firebase / Firestore, GCP
+- DevOps: Docker
+- Frontend: React / React Native
+
+---
+
+## 🚀 Projects
+- ms-telemetry-analisys – telemetry + Firestore + RabbitMQ  
+- ms-speed-sensor – speed alerts & exports  
+- gpsintegrator – real time GPS processing  
+
+---
+
+## 🎯 Currently
+- Improving my GitHub portfolio
+- Working on polyglot APIs (thesis)
+- Leveling up cloud skills
+
+---
+
+## 📫 Contact
+LinkedIn: TU LINK  
+Email: TU EMAIL
